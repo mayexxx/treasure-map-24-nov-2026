@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#f3e5c3"/>
+  <g fill="#b99b6c" opacity=".09"><ellipse cx="160" cy="120" rx="95" ry="35"/><ellipse cx="885" cy="820" rx="92" ry="50"/><ellipse cx="470" cy="940" rx="120" ry="24"/></g>
+  <rect x="22" y="22" width="980" height="980" fill="none" stroke="#65462b" stroke-width="3"/>
+  <rect x="31" y="31" width="962" height="962" fill="none" stroke="#65462b" stroke-width="1.5"/>
+  <g font-family="Georgia, serif" fill="#3a2415" text-anchor="middle">
+    <text x="512" y="78" font-size="44" font-weight="bold" letter-spacing="1">THE ISLE OF MISPLACED THINGS</text>
+    <text x="512" y="112" font-size="24" font-style="italic">Survey'd in haste, 2026</text>
+  </g>
+  <path d="M51 152 Q220 142 391 150 T744 149 Q875 143 973 154 L973 911 Q774 920 602 913 T51 914 Z" fill="#bcd8e8" stroke="#826d4b" stroke-width="2"/>
+  <g fill="none" stroke="#648c99" stroke-width="2" opacity=".7"><path d="M78 253 q15 -9 30 0 t30 0 M86 271 q15 -9 30 0 t30 0 M822 420 q15 -9 30 0 t30 0 M826 438 q15 -9 30 0 t30 0 M720 847 q15 -9 30 0 t30 0 M78 722 q15 -9 30 0 t30 0"/></g>
+  <path d="M151 447 Q158 398 192 380 L202 337 Q229 327 250 303 Q274 305 293 279 Q321 287 345 267 Q373 275 397 256 Q428 267 452 247 Q484 258 505 246 Q541 264 569 254 Q595 274 625 271 Q648 294 678 299 Q688 321 718 327 Q728 354 759 364 Q760 391 787 412 Q776 436 793 461 Q781 484 798 510 Q785 533 793 561 Q769 578 778 609 Q753 623 752 649 Q723 655 708 678 Q683 674 663 700 Q635 692 616 715 Q590 708 568 729 Q535 716 508 735 Q478 721 450 735 Q425 716 399 724 Q370 680 344 716 Q323 692 294 699 Q274 677 247 675 Q240 650 214 639 Q216 611 192 593 Q198 569 178 545 Q185 517 164 495 Z" fill="#e8d29a" stroke="#503b29" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M189 447 Q207 401 235 383 Q237 348 270 339 Q291 317 320 316 Q344 298 374 306 Q402 284 431 291 Q458 276 488 287 Q525 278 554 295 Q584 289 610 311 Q644 315 662 339 Q698 346 706 378 Q741 392 744 425 Q762 448 747 473 Q764 497 748 522 Q756 554 732 574 Q737 603 709 618 Q699 645 671 649 Q650 674 620 669 Q595 687 567 681 Q538 697 509 683 Q480 696 452 682 Q422 690 399 675 Q368 681 348 662 Q316 663 296 643 Q265 642 253 615 Q224 604 227 575 Q205 556 213 530 Q194 505 205 484 Z" fill="#a9bc7d" opacity=".8"/>
+  <!-- River and sheltered lagoon -->
+  <path d="M471 393 C448 429 481 454 450 483 S419 535 445 558 S484 605 458 651 S447 687 454 713" fill="none" stroke="#6d99a1" stroke-width="13" stroke-linecap="round"/>
+  <path d="M471 393 C448 429 481 454 450 483 S419 535 445 558 S484 605 458 651 S447 687 454 713" fill="none" stroke="#c9e4e8" stroke-width="7" stroke-linecap="round"/>
+  <path d="M583 495 Q610 466 648 479 Q682 486 685 512 Q679 540 647 546 Q609 556 585 538 Q568 521 583 495 Z" fill="#bcd8e8" stroke="#547e78" stroke-width="3"/>
+  <path d="M609 513 q13 -7 26 0 t26 0" fill="none" stroke="#78a9ad" stroke-width="2"/>
+  <!-- Mountains -->
+  <g stroke="#584433" stroke-width="3" stroke-linejoin="round"><path d="M371 419 L412 354 L435 378 L477 310 L535 418 Z" fill="#aa9d7e"/><path d="M447 360 L477 310 L506 359 L490 350 L478 358 L467 348 Z" fill="#f3e5c3"/><path d="M374 419 L406 375 L422 391 L435 378 L454 416" fill="none"/></g>
+  <!-- Palm grove -->
+  <g stroke="#4f4029" stroke-width="4" stroke-linecap="round" fill="none"><path d="M286 527 Q297 493 289 467 M327 554 Q337 516 330 493 M253 557 Q263 531 257 507"/><path d="M289 468 q-25 -17 -37 3 q24 -8 37 -3 q-17 -24 0 -28 q9 9 0 28 q16 -25 35 -12 q-24 0 -35 12 M330 494 q-24 -15 -36 2 q21 -6 36 -2 q-13 -22 2 -26 q8 10 -2 26 q18 -21 34 -8 q-20 -1 -34 8 M257 508 q-20 -12 -30 3 q18 -6 30 -3 q-10 -19 3 -22 q7 9 -3 22 q15 -17 29 -7 q-17 0 -29 7" stroke="#496542"/></g>
+  <!-- Harbour, two houses and anchor -->
+  <g stroke="#503b29" stroke-width="3" stroke-linejoin="round"><path d="M365 684 v-31 l18 -15 18 15 v31 Z M408 688 v-25 l16 -13 16 13 v25 Z" fill="#f3e5c3"/><path d="M360 654 l23 -19 23 19 M404 664 l20 -17 20 17" fill="none"/><path d="M378 684 v-16 h10 v16 M421 688 v-14 h8 v14" fill="#8c6549"/><path d="M382 720 v32 m-12 -22 h24 m-22 12 q10 22 20 0 m-20 0 l-5 -3 m25 3 l5 -3" fill="none"/><circle cx="382" cy="716" r="5" fill="none"/></g>
+  <!-- Route stays in open spaces between labels -->
+  <path d="M395 704 C344 698 298 667 278 625 C264 597 274 577 300 562 C340 535 361 485 382 443 C402 410 421 399 449 385 C501 400 533 433 557 467 C566 481 570 489 577 500 C620 565 684 583 716 548 C736 524 732 478 710 450 C690 422 667 399 648 381" fill="none" stroke="#a83d35" stroke-width="4" stroke-dasharray="10 9" stroke-linecap="round"/>
+  <g stroke="#a52e29" stroke-width="10" stroke-linecap="round"><path d="M625 337 l38 38 M663 337 l-38 38"/></g>
+  <!-- Labels have parchment backplates to preserve legibility. -->
+  <g font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#3a2415" stroke="#f3e5c3" stroke-width="6" paint-order="stroke fill" stroke-linejoin="round">
+    <text x="278" y="775">Port Regret</text>
+    <text x="348" y="274">Mount Probably</text>
+    <text x="73" y="850">Bay of Lost Passwords</text>
+    <text x="77" y="603">Coconut Court</text>
+    <text x="541" y="609">Lagoon of Unread Emails</text>
+    <text x="607" y="322">X Marks the Spot</text>
+  </g>
+  <g fill="#3a2415"><circle cx="392" cy="742" r="5"/><circle cx="477" cy="300" r="5"/><circle cx="370" cy="711" r="5"/><circle cx="276" cy="571" r="5"/><circle cx="639" cy="558" r="5"/><circle cx="644" cy="356" r="5"/></g>
+  <g fill="none" stroke="#65462b" stroke-width="2"><path d="M391 747 L391 749 M477 295 L477 282 M365 714 L245 735 L245 821 M276 576 L254 581 M639 563 L639 580 M644 351 L644 331"/></g>
+  <!-- Compass rose -->
+  <g transform="translate(879 230)" stroke="#503b29" stroke-width="2"><circle r="38" fill="#f3e5c3"/><circle r="28" fill="none"/><path d="M0 -55 L8 -8 L0 0 L-8 -8 Z M0 55 L8 8 L0 0 L-8 8 Z M-55 0 L-8 -8 L0 0 L-8 8 Z M55 0 L8 -8 L0 0 L8 8 Z" fill="#805443"/><circle r="4" fill="#503b29"/></g>
+  <text x="879" y="162" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="24" fill="#3a2415">N</text>
+  <!-- A tiny ship -->
+  <g transform="translate(113 355)" stroke="#503b29" stroke-width="3" stroke-linejoin="round"><path d="M-28 8 h56 l-10 13 h-35 Z" fill="#805443"/><path d="M0 8 v-49 M-4 -36 l-19 36 h19 Z M4 -31 l19 27 H4 Z" fill="#f3e5c3"/></g>
+  <!-- Sea monster -->
+  <g transform="translate(826 783)" fill="none" stroke="#496b5b" stroke-width="4" stroke-linecap="round"><path d="M-48 16 q12 -35 29 0 q13 -35 29 0 q12 -32 28 -2 q5 -23 20 -23 q12 0 13 15 l-10 5 M-57 21 q15 8 30 0 t30 0 t30 0 t30 0"/><circle cx="63" cy="0" r="2" fill="#496b5b"/></g>
+  <text x="829" y="845" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="24" fill="#3a2415">HERE BE MONSTERS</text>
+  <g transform="translate(76 951)" stroke="#503b29" stroke-width="3"><path d="M0 0 h180 M0 -8 v16 M90 -8 v16 M180 -8 v16"/><path d="M0 0 h90" stroke-width="7"/></g>
+  <text x="76" y="989" font-family="Georgia, serif" font-size="24" fill="#3a2415">0 — 10 leagues</text>
+</svg>
